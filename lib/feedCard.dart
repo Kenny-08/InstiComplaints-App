@@ -67,8 +67,7 @@ class _ComplaintOverviewCardState extends State<ComplaintOverviewCard> {
                     ),
                     Text(
                       widget.email,
-                      style:
-                          TextStyle(fontSize: 12, fontWeight: FontWeight.bold),
+                      style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold),
                     ),
                     /*IconButton(
                         icon: Icon(Icons
