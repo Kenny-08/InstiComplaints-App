@@ -6,6 +6,9 @@ In this fast-moving world with intensive coursework, students find very less tim
 
 > This project is a part of CSO-211 (Computer System Organization) course in III Semester of Computer Science and Engineering program at IIT BHU, Varanasi.
 
+## Update
+18th December 2020 - The presentation can be found at this [link](https://prezi.com/view/zjbcNPJ0EZojEulixST3/)
+
 ## Goals
 1. Digital Storage and Management of Complaints
 2. 24/7 Registration of Complaints
